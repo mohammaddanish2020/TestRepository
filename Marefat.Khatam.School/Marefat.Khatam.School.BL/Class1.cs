@@ -8,5 +8,6 @@ namespace Marefat.Khatam.School.BL
 {
     public class Class1
     {
+        public int x = 5;
     }
 }
