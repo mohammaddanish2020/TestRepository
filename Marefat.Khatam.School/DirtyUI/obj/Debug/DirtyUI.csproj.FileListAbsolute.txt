@@ -1,0 +1,11 @@
+G:\university\1399_Fall\Visual Programming\Khatam\Marefat.Khatam.School\DirtyUI\bin\Debug\DirtyUI.exe.config
+G:\university\1399_Fall\Visual Programming\Khatam\Marefat.Khatam.School\DirtyUI\bin\Debug\DirtyUI.exe
+G:\university\1399_Fall\Visual Programming\Khatam\Marefat.Khatam.School\DirtyUI\bin\Debug\DirtyUI.pdb
+G:\university\1399_Fall\Visual Programming\Khatam\Marefat.Khatam.School\DirtyUI\obj\Debug\DirtyUI.csprojAssemblyReference.cache
+G:\university\1399_Fall\Visual Programming\Khatam\Marefat.Khatam.School\DirtyUI\obj\Debug\DirtyUI.Form1.resources
+G:\university\1399_Fall\Visual Programming\Khatam\Marefat.Khatam.School\DirtyUI\obj\Debug\DirtyUI.Properties.Resources.resources
+G:\university\1399_Fall\Visual Programming\Khatam\Marefat.Khatam.School\DirtyUI\obj\Debug\DirtyUI.csproj.GenerateResource.cache
+G:\university\1399_Fall\Visual Programming\Khatam\Marefat.Khatam.School\DirtyUI\obj\Debug\DirtyUI.csproj.CoreCompileInputs.cache
+G:\university\1399_Fall\Visual Programming\Khatam\Marefat.Khatam.School\DirtyUI\obj\Debug\DirtyUI.exe
+G:\university\1399_Fall\Visual Programming\Khatam\Marefat.Khatam.School\DirtyUI\obj\Debug\DirtyUI.pdb
+G:\university\1399_Fall\Visual Programming\Khatam\Marefat.Khatam.School\DirtyUI\obj\Debug\DirtyUI.LessonListForm.resources
